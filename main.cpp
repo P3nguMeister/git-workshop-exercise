@@ -31,7 +31,7 @@ int main()
             break;
 
         default:
-            cout << "Operator is not available. \n";
+           
             break;
     }
 
